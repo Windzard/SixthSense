@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SixthSense</string>
+    <string name="check_location_permission">Check location permission.</string>
+    <string name="cannot_get_location">Cannot get location.</string>
+    <string name="Orientation">Orientation: %.0f</string>
+    <string name="Accel_X">Acceleration(X): %.2f</string>
+    <string name="Accel_Y">Acceleration(Y): %.2f</string>
+    <string name="Accel_Z">Acceleration(Z): %.2f</string>
+    <string name="Accel">Acceleration: %.2f</string>
+    <string name="exit_toast">Click again to exit.</string>
+    <string name="sound_off">Sound off.</string>
+</resources>
